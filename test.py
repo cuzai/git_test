@@ -3,6 +3,7 @@ class Test:
         print("test")
         print("func1")
         print("func2")
+        print("func3")
 
 
 if __name__ == "__main__":
